@@ -1,0 +1,10 @@
+
+[brick]
+name = "Benjamin"
+version = "0.1.0"
+chplVersion = "1.20.0"
+source = "git@github.com:ben-albrecht/Benjamin.git"
+
+[dependencies]
+Baz = "0.1.0"
+
